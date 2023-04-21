@@ -1,11 +1,10 @@
-# Welcome to your Jupyter Book
+# Welcome to my Jupyter book
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Hi, my name is Federico Huerta and this is my Jupyter book hosted publicly thanks to Github Pages. This website was made as an assignment for the subject of "Development based on web platforms" in the "Universidad Técnica Particular de Loja".
 
-Check out the content pages bundled with this sample book to see more.
+The additional pages from this book are the example pages from a newly created Jupyter book and their content hasn't been changed.
+
+UTPL Abril 2023 - Agosto 2023.
 
 ```{tableofcontents}
 ```
